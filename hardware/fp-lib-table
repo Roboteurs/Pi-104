@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name project_foot)(type KiCad)(uri "$(KIPRJMOD)/project_library/project_foot.pretty")(options "")(descr ""))
+  (lib (name LAN9514I-JZX)(type Legacy)(uri "$(KIPRJMOD)/project_library/project_foot.pretty/LAN9514I-JZX.mod")(options "")(descr ""))
+)

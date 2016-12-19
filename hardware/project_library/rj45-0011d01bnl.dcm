@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ45-0011D01BNL
+D RJ45 with transformer + leds WURTH
+K RJ45
+$ENDCMP
+#
+#End Doc Library
